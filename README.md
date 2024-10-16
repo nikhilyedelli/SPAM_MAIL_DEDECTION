@@ -10,3 +10,11 @@ Implementation of SVM for classification
 Evaluation using accuracy, precision, recall, and F1-score
 Visualization of model performance
 Easy-to-use interface for classifying new emails
+Technologies Used
+Programming Language: Python
+Libraries:
+scikit-learn (for SVM model and data processing)
+pandas (for data manipulation)
+numpy (for numerical operations)
+matplotlib and seaborn (for visualizations)
+NLTK or spaCy (for text preprocessing)
