@@ -59,20 +59,6 @@ Recall: Proportion of actual spam emails correctly identified
 F1-Score: Harmonic mean of precision and recall
 You can generate a confusion matrix and ROC curve to visualize the performance.
 
-## Usage
-Once the model is trained, you can classify new emails as follows:
-
-Run the Python script to load the model and classify an email:
-
-## bash
-Copy code
-python classify_email.py --email "Enikhilyedelli23@gmail.com"
-Example output:
-
-csharp
-Copy code
-The email is classified as: SPAM
-You can also use the classify_email.py file to integrate this spam detection model into any email system or application.
 
 ## Future Work
 Improve the model by experimenting with different feature extraction methods (e.g., word embeddings like Word2Vec).
