@@ -13,11 +13,11 @@ Easy-to-use interface for classifying new emails
 Technologies Used
 ## Programming Language: Python
 ## Libraries:
-scikit-learn (for SVM model and data processing)
-pandas (for data manipulation)
-numpy (for numerical operations)
-matplotlib and seaborn (for visualizations)
-NLTK or spaCy (for text preprocessing)
+-scikit-learn (for SVM model and data processing)
+=pandas (for data manipulation)
+-numpy (for numerical operations)
+-matplotlib and seaborn (for visualizations)
+-NLTK or spaCy (for text preprocessing)
 ## Installation
 To run this project, ensure you have Python 3.x installed and follow these steps:
 
